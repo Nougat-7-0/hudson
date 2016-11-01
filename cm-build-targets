@@ -41,6 +41,8 @@ flo userdebug cm-13.0
 flounder userdebug cm-13.0
 flounder_lte userdebug cm-13.0
 g2m userdebug cm-13.0
+gemini userdebug cm-13.0
+ghost userdebug cm-13.0
 gts210ltexx userdebug cm-13.0
 gts210wifi userdebug cm-13.0
 h811 userdebug cm-13.0
@@ -84,6 +86,7 @@ lettuce userdebug cm-13.0
 ls990 userdebug cm-13.0
 lt03lte userdebug cm-13.0
 lux userdebug cm-13.0
+m7 userdebug cm-13.0
 m8 userdebug cm-13.0
 m8d userdebug cm-13.0
 maguro userdebug cm-13.0
@@ -105,10 +108,13 @@ onyx userdebug cm-13.0
 osprey userdebug cm-13.0
 otus userdebug cm-13.0
 P024 userdebug cm-13.0
+paella userdebug cm-13.0
 peregrine userdebug cm-13.0
 piccolo userdebug cm-13.0
 pollux userdebug cm-13.0
 pollux_windy userdebug cm-13.0
+porridge userdebug cm-13.0
+porridgek3 userdebug cm-13.0
 quark userdebug cm-13.0
 r5 userdebug cm-13.0
 r7plus userdebug cm-13.0
@@ -118,11 +124,11 @@ serrano3gxx userdebug cm-13.0
 serranoltexx userdebug cm-13.0
 shamu userdebug cm-13.0
 shieldtablet userdebug cm-13.0
-sprout4 userdebug cm-13.0
-sprout8 userdebug cm-13.0
 spyder userdebug cm-13.0
 surnia userdebug cm-13.0
 t0lte userdebug cm-13.0
+t6 userdebug cm-13.0
+taoshan userdebug cm-13.0
 targa userdebug cm-13.0
 thea userdebug cm-13.0
 thor userdebug cm-13.0
@@ -134,8 +140,9 @@ tsubasa userdebug cm-13.0
 umts_spyder userdebug cm-13.0
 v400 userdebug cm-13.0
 v410 userdebug cm-13.0
-vs985 userdebug cm-13.0
+vegetalte userdebug cm-13.0
 victara userdebug cm-13.0
+vs985 userdebug cm-13.0
 w5 userdebug cm-13.0
 w7 userdebug cm-13.0
 wt88047 userdebug cm-13.0
@@ -155,7 +162,6 @@ e975 userdebug cm-12.1 W
 e980 userdebug cm-12.1 W
 evita userdebug cm-12.1 W
 g620_a2 userdebug cm-12.1 W
-ghost userdebug cm-12.1 W
 grouper userdebug cm-12.1 W
 hlte userdebug cm-12.1 W
 hltespr userdebug cm-12.1 W
@@ -167,11 +173,9 @@ jactivelte userdebug cm-12.1 W
 jem userdebug cm-12.1 W
 ls980 userdebug cm-12.1 W
 lt03wifi userdebug cm-12.1 W
-m7 userdebug cm-12.1 W
 m7vzw userdebug cm-12.1 W
 mb886 userdebug cm-12.1 W
 obake userdebug cm-12.1 W
-paella userdebug cm-12.1 W
 picassowifi userdebug cm-12.1 W
 rendang userdebug cm-12.1 W
 s3ve3g userdebug cm-12.1 W
@@ -179,10 +183,8 @@ scorpion userdebug cm-12.1 W
 scorpion_windy userdebug cm-12.1 W
 sirius userdebug cm-12.1 W
 superior userdebug cm-12.1 W
-t6 userdebug cm-12.1 W
 t6spr userdebug cm-12.1 W
 t6vzw userdebug cm-12.1 W
-taoshan userdebug cm-12.1 W
 tate userdebug cm-12.1 W
 tf300t userdebug cm-12.1 W
 tf701t userdebug cm-12.1 W
