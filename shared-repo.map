@@ -2,6 +2,7 @@ s|cm_t30-common-userdebug@acer|cm_a700-userdebug|g
 s|cm_otter-common-userdebug@amazon|cm_otter-userdebug|g
 s|cm_omap4-common-userdebug@motorola|cm_maserati-userdebug|g
 s|cm_aries-common-userdebug@samsung|cm_galaxysmtd-userdebug|g
+s|cm_msm8916-common-userdebug@xioami|cm_ferrari-userdebug|g
 s|cm_msm8660-common-userdebug@samsung|cm_hercules-userdebug|g
 s|cm_msm8960-common-userdebug@samsung|cm_d2att-userdebug|g
 s|cm_n80xx-common-userdebug@samsung|cm_n8000-userdebug|g
